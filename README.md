@@ -38,3 +38,8 @@ print(a > b)
 print(a >= b)
 print(a != b)
 print(a == b)
+```
+№ 1.1.2. Вычислите значение следующего выражения (аргументы - целые числа и
+вводятся с клавиатуры):  
+<img width="424" height="205" alt="image" src="https://github.com/user-attachments/assets/5e5250d7-0e9c-42b9-a5a4-9cfd2af0f253" />  
+Округлите результат до 3-х знаков после запятой, используя функцию round() .
