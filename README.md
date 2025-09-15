@@ -210,7 +210,9 @@ print("Количество минут, прошедших с момента н�
 # Количество часов, прошедших с начала суток: 2
 # Количество минут, прошедших с момента начала последнего часа: 3
 ```
-<img width="1003" height="122" alt="image" src="https://github.com/user-attachments/assets/330b9ec7-608f-4d7e-a05e-1fb9086b77d4" />
+
+<img width="1003" height="122" alt="image" src="https://github.com/user-attachments/assets/330b9ec7-608f-4d7e-a05e-1fb9086b77d4" />  
+
 ### № 1.1.6
 Дано уравнение ax + b = 0 и отрезок [m;n]. Ответьте на вопрос, попадает ли
 решение уравнения в указанный отрезок.
@@ -260,7 +262,9 @@ print("Попадает:", is_ok)
 # Введите n = 5
 # Попадает: True
 ```
-<img width="243" height="203" alt="image" src="https://github.com/user-attachments/assets/321548e3-315c-4d4c-b967-ac554494cddd" />
+
+<img width="243" height="203" alt="image" src="https://github.com/user-attachments/assets/321548e3-315c-4d4c-b967-ac554494cddd" />  
+
 ## Раздел Строки
 ### № 1.1.7
 Составьте программу, которая запрашивает название футбольной команды и
@@ -302,7 +306,9 @@ print('Количество букв "а":', team_lowercase.count('а'))
 # Буква "п" есть: True
 # Количество букв "а": 2
 ```
-<img width="514" height="204" alt="image" src="https://github.com/user-attachments/assets/abb9e816-ebcf-4f2b-87ee-22aa6217c247" />
+
+<img width="514" height="204" alt="image" src="https://github.com/user-attachments/assets/abb9e816-ebcf-4f2b-87ee-22aa6217c247" />  
+
 ### № 1.1.8
 Составьте программу, которая запрашивает название государства и его столицы, а
 затем выводит сообщение:  
@@ -329,7 +335,9 @@ print('Государство - {}, столица - {}'.format(country, capital
 # Введите название столицы: Москва
 # Государство - Россия, столица - Москва
 ```
-<img width="643" height="51" alt="image" src="https://github.com/user-attachments/assets/f048b838-111e-4a53-8671-7bb51e07311f" />
+
+<img width="643" height="51" alt="image" src="https://github.com/user-attachments/assets/f048b838-111e-4a53-8671-7bb51e07311f" />  
+
 ### № 1.1.9
 Дано слово объектно-ориентированный . Используя индексацию и срезы составьте
 из него слова объект , ориентир , тир , кот , рента и выведите их на экран.  
@@ -361,7 +369,9 @@ print(w1, w2, w3, w4, w5, sep="\n")
 # кот
 # рента
 ```
-<img width="153" height="197" alt="image" src="https://github.com/user-attachments/assets/f13ab1e6-14d2-4e0c-8190-c17eebed948b" />
+
+<img width="153" height="197" alt="image" src="https://github.com/user-attachments/assets/f13ab1e6-14d2-4e0c-8190-c17eebed948b" />  
+
 ## Раздел Структуры данных
 ### № 1.1.10
 Создайте 2 пустых списка и выполните операции, описанные в заготовке.  
@@ -484,7 +494,8 @@ print("Макс. и мин.:", c_max, c_min)
 
 ```
 
-<img width="977" height="735" alt="image" src="https://github.com/user-attachments/assets/c0f5bc93-9dc3-4afd-8104-ae40b79f67d2" />
+<img width="977" height="735" alt="image" src="https://github.com/user-attachments/assets/c0f5bc93-9dc3-4afd-8104-ae40b79f67d2" />  
+
 ### № 1.1.11
 Создайте пустой словарь для хранения информации о себе и выполните операции,
 описанные в заготовке.  
@@ -599,8 +610,10 @@ gg = list(info["вузы"].values())
 vuz_count = int(sum(info["ЕГЭ"].values()) > gg[0]) + int(sum(info["ЕГЭ"].values()) > gg[1]) + int(sum(info["ЕГЭ"].values()) > gg[2])
 print("* кол-во вузов в которые прохожу: {}".format(vuz_count))
 ```
+
 <img width="2511" height="538" alt="image" src="https://github.com/user-attachments/assets/cbfa4623-8b1c-42de-b3d7-9a9eec67acf7" />
-<img width="2308" height="65" alt="image" src="https://github.com/user-attachments/assets/c73a7819-1caf-4d10-b300-0acc0cd8bdfd" />
+<img width="2308" height="65" alt="image" src="https://github.com/user-attachments/assets/c73a7819-1caf-4d10-b300-0acc0cd8bdfd" />  
+
 
 # Вывод:
 В ходе работы:  
